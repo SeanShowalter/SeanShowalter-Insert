@@ -1,1 +1,1 @@
-INSERT INTO song (title, artist) VALUES ('Come Together', 'Beatles'), ('Superstition','Stevie Wonder');
+INSERT INTO song (title, artist) VALUES ('Come Together', 'Beatles'), ('Superstition','Stevie Wonder'); 
